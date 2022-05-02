@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shamil.
-- 👀 I’m interested in Computer Vision.
-- 🌱 I’m currently studying AI at Monash University.
-- 💞️ I’m looking to collaborate on Computer Vision projects.
+- 👀 I’m interested in Python, Django and Computer Vision.
 - 📫 Reach me @shamjam.
 
 <!---
